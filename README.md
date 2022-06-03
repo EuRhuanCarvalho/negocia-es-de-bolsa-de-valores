@@ -1,0 +1,5 @@
+O projeto desse curso será construir um cadastro de negociações de bolsa de valores. Cadastraremos novas negociações, inclusive, elas serão importadas de serviços especializados, tudo aplicando o paradigma funcional e orientado a objetos ao, mesmo tempo, utilizando o melhor dos dois mundos.
+
+Em um primeiro momento, o escopo da nossa aplicação pode parecer bem reduzido, mas é o suficiente para aplicarmos novos recursos da linguagem JavaScript, ou ECMAScript 2015 (ES6), tecnicamente falando. Além disso, organizaremos nosso código no modelo MVC (M**odel-View-C*ontroller), aplicaremos padrões de projeto, programaremos assincronamente com *promises, renderizaremos templates e trabalharemos com proxies, entre outras coisas.
+
+Os serviços que nossa aplicação consumirá serão disponibilizados para você através de um servidor Node.js disponível com o arquivo do projeto que usaremos até o final. A ideia é que você otimize seu tempo aprendendo JavaScript sem perder horas e horas com infraestrutura, que muitas vezes é a vilã de todo treinamento.
